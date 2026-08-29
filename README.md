@@ -30,7 +30,7 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado en tu equipo:
 1. Clona este repositorio o descarga el script de Python en tu ordenador.
 2. Ejecuta el archivo desde tu terminal o IDE de confianza:
    ```bash
-   python gestor_git.py
+   # 🚀 Gestor Git Fácil (Python & Tkinter).py
 
 ```
 
